@@ -3,6 +3,8 @@ Ich sammle hier alle BakermanLP und BakermanLP Community Modpacks. Hier wird nac
 
 Alle Clients sind MultiMC Instanzen, ich empfehle [Prism Launcher](https://prismlauncher.org/) um diese zu verwenden.
 
+Bei BakermanLP auf der Webseite gibt es die komplette ProjectRET Serie [Minecraft Modpacks](https://www.bakermanlp.de/blog/2023-03-01-minecraft_modpacks/).
+
 ## ProjectRETv2 - 2014
 
 ### Videos
